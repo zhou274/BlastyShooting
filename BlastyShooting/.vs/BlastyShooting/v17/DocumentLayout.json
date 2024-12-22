@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\BlastyShooting\\BlastyShooting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|d:\\unity\\blastyshooting\\blastyshooting\\assets\\blastyshooting\\scripts\\services\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|solutionrelative:assets\\blastyshooting\\scripts\\services\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|d:\\unity\\blastyshooting\\blastyshooting\\assets\\blastyshooting\\scripts\\services\\sharemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|solutionrelative:assets\\blastyshooting\\scripts\\services\\sharemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|d:\\unity\\blastyshooting\\blastyshooting\\assets\\blastyshooting\\scripts\\services\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|solutionrelative:assets\\blastyshooting\\scripts\\services\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|d:\\unity\\blastyshooting\\blastyshooting\\assets\\blastyshooting\\scripts\\services\\facebookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|solutionrelative:assets\\blastyshooting\\scripts\\services\\facebookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|d:\\unity\\blastyshooting\\blastyshooting\\assets\\blastyshooting\\scripts\\services\\dailyrewardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|solutionrelative:assets\\blastyshooting\\scripts\\services\\dailyrewardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|d:\\unity\\blastyshooting\\blastyshooting\\assets\\blastyshooting\\scripts\\services\\coinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|solutionrelative:assets\\blastyshooting\\scripts\\services\\coinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|d:\\unity\\blastyshooting\\blastyshooting\\assets\\blastyshooting\\scripts\\services\\admanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|solutionrelative:assets\\blastyshooting\\scripts\\services\\admanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|d:\\unity\\blastyshooting\\blastyshooting\\assets\\blastyshooting\\scripts\\gameplay\\upgradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|solutionrelative:assets\\blastyshooting\\scripts\\gameplay\\upgradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|d:\\unity\\blastyshooting\\blastyshooting\\assets\\blastyshooting\\scripts\\gameplay\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|solutionrelative:assets\\blastyshooting\\scripts\\gameplay\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|d:\\unity\\blastyshooting\\blastyshooting\\assets\\blastyshooting\\scripts\\gameplay\\shopmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|solutionrelative:assets\\blastyshooting\\scripts\\gameplay\\shopmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|d:\\unity\\blastyshooting\\blastyshooting\\assets\\blastyshooting\\scripts\\gameplay\\rewardedcoinscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|solutionrelative:assets\\blastyshooting\\scripts\\gameplay\\rewardedcoinscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|d:\\unity\\blastyshooting\\blastyshooting\\assets\\blastyshooting\\scripts\\gameplay\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|solutionrelative:assets\\blastyshooting\\scripts\\gameplay\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|d:\\unity\\blastyshooting\\blastyshooting\\assets\\blastyshooting\\scripts\\gameplay\\itemsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|solutionrelative:assets\\blastyshooting\\scripts\\gameplay\\itemsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|d:\\unity\\blastyshooting\\blastyshooting\\assets\\blastyshooting\\scripts\\gameplay\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|solutionrelative:assets\\blastyshooting\\scripts\\gameplay\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|d:\\unity\\blastyshooting\\blastyshooting\\assets\\blastyshooting\\scripts\\gameplay\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|solutionrelative:assets\\blastyshooting\\scripts\\gameplay\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|d:\\unity\\blastyshooting\\blastyshooting\\assets\\blastyshooting\\scripts\\gameplay\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|solutionrelative:assets\\blastyshooting\\scripts\\gameplay\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|d:\\unity\\blastyshooting\\blastyshooting\\assets\\blastyshooting\\scripts\\gameplay\\characterscroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|solutionrelative:assets\\blastyshooting\\scripts\\gameplay\\characterscroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|d:\\unity\\blastyshooting\\blastyshooting\\assets\\blastyshooting\\scripts\\gameplay\\charactermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|solutionrelative:assets\\blastyshooting\\scripts\\gameplay\\charactermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|d:\\unity\\blastyshooting\\blastyshooting\\assets\\blastyshooting\\scripts\\gameplay\\characterinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|solutionrelative:assets\\blastyshooting\\scripts\\gameplay\\characterinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|d:\\unity\\blastyshooting\\blastyshooting\\assets\\blastyshooting\\scripts\\gameplay\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|solutionrelative:assets\\blastyshooting\\scripts\\gameplay\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|d:\\unity\\blastyshooting\\blastyshooting\\assets\\blastyshooting\\scripts\\gameplay\\boostupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|solutionrelative:assets\\blastyshooting\\scripts\\gameplay\\boostupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|d:\\unity\\blastyshooting\\blastyshooting\\assets\\blastyshooting\\scripts\\gameplay\\ballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D76233-FFCC-97C6-A6E5-C0D9256CCD14}|Assembly-CSharp.csproj|solutionrelative:assets\\blastyshooting\\scripts\\gameplay\\ballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Services\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\BlastyShooting\\Scripts\\Services\\SoundManager.cs",
+              "ToolTip": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Services\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\BlastyShooting\\Scripts\\Services\\SoundManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:05:52.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShareManager.cs",
+              "DocumentMoniker": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Services\\ShareManager.cs",
+              "RelativeDocumentMoniker": "Assets\\BlastyShooting\\Scripts\\Services\\ShareManager.cs",
+              "ToolTip": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Services\\ShareManager.cs",
+              "RelativeToolTip": "Assets\\BlastyShooting\\Scripts\\Services\\ShareManager.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAkwIEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:05:48.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Services\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\BlastyShooting\\Scripts\\Services\\ScoreManager.cs",
+              "ToolTip": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Services\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\BlastyShooting\\Scripts\\Services\\ScoreManager.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:05:43.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FacebookManager.cs",
+              "DocumentMoniker": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Services\\FacebookManager.cs",
+              "RelativeDocumentMoniker": "Assets\\BlastyShooting\\Scripts\\Services\\FacebookManager.cs",
+              "ToolTip": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Services\\FacebookManager.cs",
+              "RelativeToolTip": "Assets\\BlastyShooting\\Scripts\\Services\\FacebookManager.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAiwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:05:35.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DailyRewardManager.cs",
+              "DocumentMoniker": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Services\\DailyRewardManager.cs",
+              "RelativeDocumentMoniker": "Assets\\BlastyShooting\\Scripts\\Services\\DailyRewardManager.cs",
+              "ToolTip": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Services\\DailyRewardManager.cs",
+              "RelativeToolTip": "Assets\\BlastyShooting\\Scripts\\Services\\DailyRewardManager.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:05:30.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CoinManager.cs",
+              "DocumentMoniker": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Services\\CoinManager.cs",
+              "RelativeDocumentMoniker": "Assets\\BlastyShooting\\Scripts\\Services\\CoinManager.cs",
+              "ToolTip": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Services\\CoinManager.cs",
+              "RelativeToolTip": "Assets\\BlastyShooting\\Scripts\\Services\\CoinManager.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAcwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:05:27.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdManager.cs",
+              "DocumentMoniker": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Services\\AdManager.cs",
+              "RelativeDocumentMoniker": "Assets\\BlastyShooting\\Scripts\\Services\\AdManager.cs",
+              "ToolTip": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Services\\AdManager.cs",
+              "RelativeToolTip": "Assets\\BlastyShooting\\Scripts\\Services\\AdManager.cs",
+              "ViewState": "AgIAALcBAAAAAAAAAAAgwNgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:05:22.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpgradeController.cs",
+              "DocumentMoniker": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Gameplay\\UpgradeController.cs",
+              "RelativeDocumentMoniker": "Assets\\BlastyShooting\\Scripts\\Gameplay\\UpgradeController.cs",
+              "ToolTip": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Gameplay\\UpgradeController.cs",
+              "RelativeToolTip": "Assets\\BlastyShooting\\Scripts\\Gameplay\\UpgradeController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAcwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:05:16.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Gameplay\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\BlastyShooting\\Scripts\\Gameplay\\UIManager.cs",
+              "ToolTip": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Gameplay\\UIManager.cs",
+              "RelativeToolTip": "Assets\\BlastyShooting\\Scripts\\Gameplay\\UIManager.cs",
+              "ViewState": "AgIAADgBAAAAAAAAAAAcwFgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:05:11.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShopManager.cs",
+              "DocumentMoniker": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Gameplay\\ShopManager.cs",
+              "RelativeDocumentMoniker": "Assets\\BlastyShooting\\Scripts\\Gameplay\\ShopManager.cs",
+              "ToolTip": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Gameplay\\ShopManager.cs",
+              "RelativeToolTip": "Assets\\BlastyShooting\\Scripts\\Gameplay\\ShopManager.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:05:04.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RewardedCoinsController.cs",
+              "DocumentMoniker": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Gameplay\\RewardedCoinsController.cs",
+              "RelativeDocumentMoniker": "Assets\\BlastyShooting\\Scripts\\Gameplay\\RewardedCoinsController.cs",
+              "ToolTip": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Gameplay\\RewardedCoinsController.cs",
+              "RelativeToolTip": "Assets\\BlastyShooting\\Scripts\\Gameplay\\RewardedCoinsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:04:57.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Gameplay\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\BlastyShooting\\Scripts\\Gameplay\\PlayerController.cs",
+              "ToolTip": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Gameplay\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\BlastyShooting\\Scripts\\Gameplay\\PlayerController.cs",
+              "ViewState": "AgIAADMBAAAAAAAAAAAkwFYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:04:53.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ItemsManager.cs",
+              "DocumentMoniker": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Gameplay\\ItemsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\BlastyShooting\\Scripts\\Gameplay\\ItemsManager.cs",
+              "ToolTip": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Gameplay\\ItemsManager.cs",
+              "RelativeToolTip": "Assets\\BlastyShooting\\Scripts\\Gameplay\\ItemsManager.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:04:49.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Gameplay\\ItemController.cs",
+              "RelativeDocumentMoniker": "Assets\\BlastyShooting\\Scripts\\Gameplay\\ItemController.cs",
+              "ToolTip": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Gameplay\\ItemController.cs",
+              "RelativeToolTip": "Assets\\BlastyShooting\\Scripts\\Gameplay\\ItemController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAiwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:04:40.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Gameplay\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\BlastyShooting\\Scripts\\Gameplay\\GameManager.cs",
+              "ToolTip": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Gameplay\\GameManager.cs",
+              "RelativeToolTip": "Assets\\BlastyShooting\\Scripts\\Gameplay\\GameManager.cs",
+              "ViewState": "AgIAAKoCAAAAAAAAAAAcwMoCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:04:36.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Gameplay\\DataController.cs",
+              "RelativeDocumentMoniker": "Assets\\BlastyShooting\\Scripts\\Gameplay\\DataController.cs",
+              "ToolTip": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Gameplay\\DataController.cs",
+              "RelativeToolTip": "Assets\\BlastyShooting\\Scripts\\Gameplay\\DataController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:04:32.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CharacterScroller.cs",
+              "DocumentMoniker": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Gameplay\\CharacterScroller.cs",
+              "RelativeDocumentMoniker": "Assets\\BlastyShooting\\Scripts\\Gameplay\\CharacterScroller.cs",
+              "ToolTip": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Gameplay\\CharacterScroller.cs",
+              "RelativeToolTip": "Assets\\BlastyShooting\\Scripts\\Gameplay\\CharacterScroller.cs",
+              "ViewState": "AgIAAEgBAAAAAAAAAAAcwGgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:04:28.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CharacterManager.cs",
+              "DocumentMoniker": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Gameplay\\CharacterManager.cs",
+              "RelativeDocumentMoniker": "Assets\\BlastyShooting\\Scripts\\Gameplay\\CharacterManager.cs",
+              "ToolTip": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Gameplay\\CharacterManager.cs",
+              "RelativeToolTip": "Assets\\BlastyShooting\\Scripts\\Gameplay\\CharacterManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA3wCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:04:24.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CharacterInfo.cs",
+              "DocumentMoniker": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Gameplay\\CharacterInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\BlastyShooting\\Scripts\\Gameplay\\CharacterInfo.cs",
+              "ToolTip": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Gameplay\\CharacterInfo.cs",
+              "RelativeToolTip": "Assets\\BlastyShooting\\Scripts\\Gameplay\\CharacterInfo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:04:21.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BoostUpController.cs",
+              "DocumentMoniker": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Gameplay\\BoostUpController.cs",
+              "RelativeDocumentMoniker": "Assets\\BlastyShooting\\Scripts\\Gameplay\\BoostUpController.cs",
+              "ToolTip": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Gameplay\\BoostUpController.cs",
+              "RelativeToolTip": "Assets\\BlastyShooting\\Scripts\\Gameplay\\BoostUpController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:04:12.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BulletController.cs",
+              "DocumentMoniker": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Gameplay\\BulletController.cs",
+              "RelativeDocumentMoniker": "Assets\\BlastyShooting\\Scripts\\Gameplay\\BulletController.cs",
+              "ToolTip": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Gameplay\\BulletController.cs",
+              "RelativeToolTip": "Assets\\BlastyShooting\\Scripts\\Gameplay\\BulletController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA4wDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:04:11.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BallController.cs",
+              "DocumentMoniker": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Gameplay\\BallController.cs",
+              "RelativeDocumentMoniker": "Assets\\BlastyShooting\\Scripts\\Gameplay\\BallController.cs",
+              "ToolTip": "D:\\Unity\\BlastyShooting\\BlastyShooting\\Assets\\BlastyShooting\\Scripts\\Gameplay\\BallController.cs",
+              "RelativeToolTip": "Assets\\BlastyShooting\\Scripts\\Gameplay\\BallController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAiwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:03:49.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
