@@ -3,14 +3,15 @@ using System.Collections.Generic;
 using UnityEngine;
 using OnefallGames;
 using UnityEngine.UI;
+using TMPro;
 
 public class ShopManager : MonoBehaviour
 {
-    [SerializeField] private Text missileTxt;
-    [SerializeField] private Text bombTxt;
-    [SerializeField] private Text laserTxt;
-    [SerializeField] private Text coins;
-    [SerializeField] private GameObject GameMenu;
+    [SerializeField] private TextMeshProUGUI missileTxt;
+    [SerializeField] private TextMeshProUGUI bombTxt;
+    [SerializeField] private TextMeshProUGUI laserTxt;
+    [SerializeField] private TextMeshProUGUI coins;
+    //[SerializeField] private GameObject GameMenu;
     public void BuyBomb()
     {
         if(CoinManager.Instance.Coins>50)

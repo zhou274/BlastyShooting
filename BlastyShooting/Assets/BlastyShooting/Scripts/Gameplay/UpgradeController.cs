@@ -2,6 +2,7 @@
 using UnityEngine.UI;
 using UnityEngine;
 using OnefallGames;
+using TMPro;
 
 public class UpgradeController : MonoBehaviour {
 
@@ -10,11 +11,11 @@ public class UpgradeController : MonoBehaviour {
     [SerializeField] private int BPUpgradePrice = 5;
 
     [Header("Upgrade References")]
-    [SerializeField] private Text coinTxt;
-    [SerializeField] private Text SS_LevelTxt;
-    [SerializeField] private Text BP_LevelTxt;
-    [SerializeField] private Text SSUpgradePriceTxt;
-    [SerializeField] private Text BPUpgradePriceTxt;
+    [SerializeField] private TextMeshProUGUI coinTxt;
+    [SerializeField] private TextMeshProUGUI SS_LevelTxt;
+    [SerializeField] private TextMeshProUGUI BP_LevelTxt;
+    [SerializeField] private TextMeshProUGUI SSUpgradePriceTxt;
+    [SerializeField] private TextMeshProUGUI BPUpgradePriceTxt;
     [SerializeField] private Button SS_UpgradeBtn;
     [SerializeField] private Button BP_UpgradeBtn;
 
@@ -42,8 +43,8 @@ public class UpgradeController : MonoBehaviour {
         coinTxt.text = CoinManager.Instance.Coins.ToString();
         SSUpgradePriceTxt.text = SSUpgradePrice.ToString();
         BPUpgradePriceTxt.text = BPUpgradePrice.ToString();
-        SS_LevelTxt.text = "LEVEL: " + DataController.Get_SS_Level().ToString();
-        BP_LevelTxt.text = "LEVEL: " + DataController.Get_BP_Level().ToString();
+        SS_LevelTxt.text = "等级: " + DataController.Get_SS_Level().ToString();
+        BP_LevelTxt.text = "等级: " + DataController.Get_BP_Level().ToString();
 
         if (CoinManager.Instance.Coins > SSUpgradePrice)
             SS_UpgradeBtn.interactable = true;

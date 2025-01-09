@@ -3,6 +3,7 @@ using UnityEngine.SceneManagement;
 using UnityEngine;
 using OnefallGames;
 using UnityEngine.UI;
+using TMPro;
 
 public class UIManager : MonoBehaviour {
     public static UIManager Instance { private set; get; }
@@ -10,11 +11,11 @@ public class UIManager : MonoBehaviour {
 
     //Gameplay UI
     [SerializeField] private GameObject gameplayUI;
-    [SerializeField] private Text scoreTxt;
-    [SerializeField] private Text coinsTxt;
-    [SerializeField] private Text missileTxt;
-    [SerializeField] private Text bombTxt;
-    [SerializeField] private Text laserTxt;
+    [SerializeField] private TextMeshProUGUI scoreTxt;
+    [SerializeField] private TextMeshProUGUI coinsTxt;
+    [SerializeField] private TextMeshProUGUI missileTxt;
+    [SerializeField] private TextMeshProUGUI bombTxt;
+    [SerializeField] private TextMeshProUGUI laserTxt;
 
     //Revive UI
     [SerializeField] private GameObject reviveUI;
@@ -22,7 +23,7 @@ public class UIManager : MonoBehaviour {
 
     //Game over UI
     [SerializeField]private GameObject gameOverUI;
-    [SerializeField] private Text bestScoreTxt;
+    [SerializeField] private TextMeshProUGUI bestScoreTxt;
     [SerializeField] private GameObject gameName;
     [SerializeField] private RawImage shareImage;
     [SerializeField] private Button dailyRewardBtn;

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using OnefallGames;
+using TMPro;
 public class BallController : MonoBehaviour {
 
     [HideInInspector]
@@ -14,7 +15,7 @@ public class BallController : MonoBehaviour {
 
 
     [SerializeField]
-    private Text numberText = null;
+    private TextMeshProUGUI numberText = null;
 
     private SpriteRenderer spRender = null;
     private float scaleDownFactor;

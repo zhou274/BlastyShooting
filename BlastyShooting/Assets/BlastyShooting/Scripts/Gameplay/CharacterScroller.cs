@@ -4,6 +4,7 @@ using System.Collections;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using OnefallGames;
+using TMPro;
 
 public class CharacterScroller : MonoBehaviour
 {
@@ -20,8 +21,8 @@ public class CharacterScroller : MonoBehaviour
     [SerializeField] private Color unlockColor = Color.white;
 
     [Header("References")]
-    [SerializeField] private Text totalCoinsTxt;
-    [SerializeField] private Text characterPriceTxt;
+    [SerializeField] private TextMeshProUGUI totalCoinsTxt;
+    [SerializeField] private TextMeshProUGUI characterPriceTxt;
     [SerializeField] private GameObject characterPriceUI;
     [SerializeField] private Button selectButon;
     [SerializeField] private Button unlockButton;
